@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 python-firebase = "*"
 request = "*"
+streamlit = "*"
 
 [requires]
 python_version = "3.6"
